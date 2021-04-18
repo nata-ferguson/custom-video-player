@@ -1,10 +1,4 @@
 # custom-video-player
 Shinjuku Streets, custom video player using the HTML5 video element and it's JavaScript API with a custom design
 
-Spec
-Display custom video player styled with CSS
-Play/pause
-Stop
-Video progress bar
-Set progress bar time
-Display time in mins and seconds
+Spec: display custom video player styled with CSS, play/pause, stop, video progress bar, set progress bar time, display time in mins and seconds.
